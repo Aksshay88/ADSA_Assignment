@@ -2,7 +2,8 @@
  
 ## This repo is for ADSA concepts :
 ## You can access some free resources 
- Code writen using [Python](https://docs.python.org/3/).
+Code writen using [Python](https://docs.python.org/3/).
+
 This assignment covers the topic of Sorting Algorithm ,Matrix chain multiplication problem and N-Queens !!!.
 
 ### Contents:
